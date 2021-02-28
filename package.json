@@ -1,7 +1,7 @@
 {
   "name": "locus",
   "version": "0.0.1",
-  "description": "",
+  "description": "Manage all configuration files in one place.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
