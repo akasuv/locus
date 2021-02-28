@@ -1,5 +1,5 @@
 {
-  "name": "locus",
+  "name": "@akasuv/locus",
   "version": "0.0.1",
   "description": "Manage all configuration files in one place.",
   "main": "index.js",
